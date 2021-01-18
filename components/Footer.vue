@@ -4,6 +4,7 @@
 <div class="container">
 <div class="row justify-content-between">
 <div class="col">
+<a href="/"><img class="logofooter" :src="($withBase)($themeConfig.logo)"></a>
 </div>
 <div class="col text-right">
 <ul v-if="contact" class="list-unstyled">
@@ -44,7 +45,6 @@ import {
   PhoneIcon,
   TwitterIcon,
 } from 'vue-feather-icons'
-
 export default {
   components: {
     CodepenIcon,
@@ -59,7 +59,6 @@ export default {
     PhoneIcon,
     TwitterIcon,
   },
-
   computed: {
     contact() {
       return (
@@ -73,6 +72,19 @@ export default {
           }
         })
         .filter(({ iconComponent }) => iconComponent)
+    },
+    copyright() {
+      return (
+        (this.$themeConfig.footer && this.$themeConfig.footer.copyright) || []
+      )
+    },
+  },
+  methods: {
+    getIconComponentName(contactType) {
+      switch (contactType) {
+        case 'github':
+          return 'GithubIcon'
+      }
     },
   },
 }
