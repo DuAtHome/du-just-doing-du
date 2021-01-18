@@ -75,12 +75,6 @@ export default {
         })
         .filter(({ iconComponent }) => iconComponent)
     },
-
-    copyright() {
-      return (
-        (this.$themeConfig.footer && this.$themeConfig.footer.copyright) || []
-      )
-    },
   },
 
   methods: {
