@@ -33,7 +33,7 @@ import SearchBox from '@SearchBox'
 import Feed from './Feed'
 
 export default {
-  components: { SearchBox },
+  components: { SearchBox, Feed },
 }
 </script>
 
