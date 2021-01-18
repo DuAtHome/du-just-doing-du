@@ -34,3 +34,7 @@ Each one of these was hand-picked by me for maximum security, and compared to co
 
   Discord isn't a _bad_ company, their software just has lots of issues, and even multiple vulnerabilities that don't exist on the federated alternative, Element.  
   You can start up your own Matrix server for End to End encrypted messaging, video and voice calls, stickers, emojis, and file transfer just like discord. No "Nitro" subscription required.
+
+## Open Source
+
+Open Source is very important for trusting the software that you use. If you aren't able to verify that there are no backdoors, no spying, and no other shady activity, you aren't able to verify that the technology isn't being evil behind your back.
