@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'Du Just Doing Du',
   base: '/',
   dest: 'public',
   description: 'Mediumish theme with VuePress and Forestry',
@@ -8,16 +8,10 @@ module.exports = {
   themeConfig: {
   authors: [
       {
-      name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
+      name: 'Du Cheng',
+      avatar: '/assets/img/du.jpg',
+      link: 'https://du.octarus.dev',
       linktext: 'Follow',
-      },
-      {
-        name: 'John Doe',
-        avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
       },
     ],
     footer: {
@@ -81,16 +75,6 @@ module.exports = {
 
     sitemap: {
       hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
-    },
-    comment: {
-      service: 'disqus',
-      shortname: 'demowebsite',
-    },
-    newsletter: {
-      endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
-    },
-    feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
     },
     smoothScroll: true
   },
