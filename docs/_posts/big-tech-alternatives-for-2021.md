@@ -14,7 +14,7 @@ Big Tech is going crazy with censorship lately. They are censoring everyone from
 
 They do have their reasons, and after taking a look at their public statements, they seem fairly reasonable given the circumstances.
 
-## About the Alts
+## Alternatives
 
 Each one of these was hand-picked by me for maximum security, and compared to common software from big tech companies.
 
@@ -30,3 +30,7 @@ Each one of these was hand-picked by me for maximum security, and compared to co
 * **YouTube ->** [**Odysee**](https://odysee.com/)
 
   Remember, YouTube is a Google product. They will happily censor anyone who doesn't agree, such as the entire crypto community. They aren't as bad as a company like Twitter or Facebook, but they are still unethical so they belong on the list.
+* **Discord ->** [**Element**](https://element.io/)
+
+  Discord isn't a _bad_ company, their software just has lots of issues, and even multiple vulnerabilities that don't exist on the federated alternative, Element.  
+  You can start up your own Matrix server for End to End encrypted messaging, video and voice calls, stickers, emojis, and file transfer just like discord. No "Nitro" subscription required.
