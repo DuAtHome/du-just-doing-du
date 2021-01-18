@@ -1,9 +1,9 @@
 ---
 tags: []
 title: Welcome to my blog
-date: 
+date: 2021-01-17 06:00:00 +0000
 author: Du Cheng
-featuredimg: ''
+featuredimg: "/assets/img/great-wall-of-china"
 summary: ''
 
 ---
