@@ -15,4 +15,4 @@ Welcome to my blog. Here, I will talk about technology, history, science, and oc
 
 ## About Me
 
-My name is Du Cheng, I am a software developer that started my journey at a young age, and have turned what I love into what I do full-time. Currently, I am working on content aggregation software 
+My name is Du Cheng, I am a software developer that started my programmer journey at a young age, and have turned what I love into what I do full-time. Currently, I am working on content aggregation software to help speed up my work
