@@ -11,4 +11,4 @@ summary: I will explain what a superapp is, how it is fundamentally different, a
 ---
 Other than the differences in app icon design, these sets of apps function very differently.
 
-On the left, you have what are known as Superapps, and on the right you have traditional western social media apps.
+On the left, you have what are known as Superapps, and on the right you have traditional western social media apps. So, what is a superapp? 
