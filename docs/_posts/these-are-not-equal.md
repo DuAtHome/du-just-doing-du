@@ -16,3 +16,5 @@ On the left, you have what are known as Superapps, and on the right you have tra
 ![](/assets/img/1_e6ad8h3pos0fd6xn9s7sya-2x.png)
 
 Above, you can see just how WeChat works, and the apps it can replace just within it's menus. It has the features of other apps all in one.
+
+(post incomplete)
