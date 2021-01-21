@@ -17,4 +17,6 @@ On the left, you have what are known as Superapps, and on the right you have tra
 
 Above, you can see just how WeChat works, and the apps it can replace just within it's menus. It has the features of other apps all in one.
 
+This is a common style of app in China, because users prefer to use 1-3 apps, developers love to develop for one platform and have it split between both operating systems. Along with that, the big tech giants like total control over user interactions, and keeping users on one platform instead of splitting between multiple.
+
 (post incomplete)
