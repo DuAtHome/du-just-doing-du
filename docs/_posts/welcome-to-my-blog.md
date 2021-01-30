@@ -19,4 +19,4 @@ My name is Du Cheng, I am a software developer, privacy advocate, and ethical ha
 
 In fact, this website is open source. You can grab the source and customize it to your liking. Take a look [right here](https://github.com/DuAtHome/du-just-doing-du).
 
-(This page is a work in progress)
+(This page is a work in progress) and
